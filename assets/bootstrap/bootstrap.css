@@ -5164,6 +5164,25 @@ button.bg-dark:focus {
 .mx-5 {
   margin-left: 3rem !important; }
 
+.m-6 {
+  margin: 8rem !important; }
+
+.mt-6,
+.my-6 {
+  margin-top: 8rem !important; }
+
+.mr-6,
+.mx-6 {
+  margin-right: 8rem !important; }
+
+.mb-6,
+.my-6 {
+  margin-bottom: 8rem !important; }
+
+.ml-6,
+.mx-6 {
+  margin-left: 8rem !important; }
+
 .p-0 {
   padding: 0 !important; }
 
@@ -5277,6 +5296,25 @@ button.bg-dark:focus {
 .pl-5,
 .px-5 {
   padding-left: 3rem !important; }
+
+.p-6 {
+  padding: 8rem !important; }
+
+.pt-6,
+.py-6 {
+  padding-top: 8rem !important; }
+
+.pr-6,
+.px-6 {
+  padding-right: 8rem !important; }
+
+.pb-6,
+.py-6 {
+  padding-bottom: 8rem !important; }
+
+.pl-6,
+.px-6 {
+  padding-left: 8rem !important; }
 
 .m-auto {
   margin: auto !important; }
@@ -5412,6 +5450,25 @@ button.bg-dark:focus {
   .mx-sm-5 {
     margin-left: 3rem !important; }
 
+  .m-sm-6 {
+    margin: 8rem !important; }
+
+  .mt-sm-6,
+  .my-sm-6 {
+    margin-top: 8rem !important; }
+
+  .mr-sm-6,
+  .mx-sm-6 {
+    margin-right: 8rem !important; }
+
+  .mb-sm-6,
+  .my-sm-6 {
+    margin-bottom: 8rem !important; }
+
+  .ml-sm-6,
+  .mx-sm-6 {
+    margin-left: 8rem !important; }
+
   .p-sm-0 {
     padding: 0 !important; }
 
@@ -5525,6 +5582,25 @@ button.bg-dark:focus {
   .pl-sm-5,
   .px-sm-5 {
     padding-left: 3rem !important; }
+
+  .p-sm-6 {
+    padding: 8rem !important; }
+
+  .pt-sm-6,
+  .py-sm-6 {
+    padding-top: 8rem !important; }
+
+  .pr-sm-6,
+  .px-sm-6 {
+    padding-right: 8rem !important; }
+
+  .pb-sm-6,
+  .py-sm-6 {
+    padding-bottom: 8rem !important; }
+
+  .pl-sm-6,
+  .px-sm-6 {
+    padding-left: 8rem !important; }
 
   .m-sm-auto {
     margin: auto !important; }
@@ -5659,6 +5735,25 @@ button.bg-dark:focus {
   .mx-md-5 {
     margin-left: 3rem !important; }
 
+  .m-md-6 {
+    margin: 8rem !important; }
+
+  .mt-md-6,
+  .my-md-6 {
+    margin-top: 8rem !important; }
+
+  .mr-md-6,
+  .mx-md-6 {
+    margin-right: 8rem !important; }
+
+  .mb-md-6,
+  .my-md-6 {
+    margin-bottom: 8rem !important; }
+
+  .ml-md-6,
+  .mx-md-6 {
+    margin-left: 8rem !important; }
+
   .p-md-0 {
     padding: 0 !important; }
 
@@ -5772,6 +5867,25 @@ button.bg-dark:focus {
   .pl-md-5,
   .px-md-5 {
     padding-left: 3rem !important; }
+
+  .p-md-6 {
+    padding: 8rem !important; }
+
+  .pt-md-6,
+  .py-md-6 {
+    padding-top: 8rem !important; }
+
+  .pr-md-6,
+  .px-md-6 {
+    padding-right: 8rem !important; }
+
+  .pb-md-6,
+  .py-md-6 {
+    padding-bottom: 8rem !important; }
+
+  .pl-md-6,
+  .px-md-6 {
+    padding-left: 8rem !important; }
 
   .m-md-auto {
     margin: auto !important; }
@@ -5906,6 +6020,25 @@ button.bg-dark:focus {
   .mx-lg-5 {
     margin-left: 3rem !important; }
 
+  .m-lg-6 {
+    margin: 8rem !important; }
+
+  .mt-lg-6,
+  .my-lg-6 {
+    margin-top: 8rem !important; }
+
+  .mr-lg-6,
+  .mx-lg-6 {
+    margin-right: 8rem !important; }
+
+  .mb-lg-6,
+  .my-lg-6 {
+    margin-bottom: 8rem !important; }
+
+  .ml-lg-6,
+  .mx-lg-6 {
+    margin-left: 8rem !important; }
+
   .p-lg-0 {
     padding: 0 !important; }
 
@@ -6019,6 +6152,25 @@ button.bg-dark:focus {
   .pl-lg-5,
   .px-lg-5 {
     padding-left: 3rem !important; }
+
+  .p-lg-6 {
+    padding: 8rem !important; }
+
+  .pt-lg-6,
+  .py-lg-6 {
+    padding-top: 8rem !important; }
+
+  .pr-lg-6,
+  .px-lg-6 {
+    padding-right: 8rem !important; }
+
+  .pb-lg-6,
+  .py-lg-6 {
+    padding-bottom: 8rem !important; }
+
+  .pl-lg-6,
+  .px-lg-6 {
+    padding-left: 8rem !important; }
 
   .m-lg-auto {
     margin: auto !important; }
@@ -6153,6 +6305,25 @@ button.bg-dark:focus {
   .mx-xl-5 {
     margin-left: 3rem !important; }
 
+  .m-xl-6 {
+    margin: 8rem !important; }
+
+  .mt-xl-6,
+  .my-xl-6 {
+    margin-top: 8rem !important; }
+
+  .mr-xl-6,
+  .mx-xl-6 {
+    margin-right: 8rem !important; }
+
+  .mb-xl-6,
+  .my-xl-6 {
+    margin-bottom: 8rem !important; }
+
+  .ml-xl-6,
+  .mx-xl-6 {
+    margin-left: 8rem !important; }
+
   .p-xl-0 {
     padding: 0 !important; }
 
@@ -6266,6 +6437,25 @@ button.bg-dark:focus {
   .pl-xl-5,
   .px-xl-5 {
     padding-left: 3rem !important; }
+
+  .p-xl-6 {
+    padding: 8rem !important; }
+
+  .pt-xl-6,
+  .py-xl-6 {
+    padding-top: 8rem !important; }
+
+  .pr-xl-6,
+  .px-xl-6 {
+    padding-right: 8rem !important; }
+
+  .pb-xl-6,
+  .py-xl-6 {
+    padding-bottom: 8rem !important; }
+
+  .pl-xl-6,
+  .px-xl-6 {
+    padding-left: 8rem !important; }
 
   .m-xl-auto {
     margin: auto !important; }
