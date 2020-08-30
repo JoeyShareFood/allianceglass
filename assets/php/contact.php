@@ -16,11 +16,6 @@ $subject = 'New message from contact form';
 // array variable name => Text to appear in the email
 $fields = array('name' => 'Name', 'phone' => 'Phone', 'need' => 'Need', 'email' => 'Email', 'message' => 'Message'); 
 
-// message that will be displayed when everything is OK :)
-$okMessage = "Sua mensagem foi enviada com sucesso!";
-
-// If something goes wrong, we will display this message.
-$errorMessage = "Sua mensagem não pode ser enviada. Tente novamente";
 
 /*
  *  LET'S DO THE SENDING
@@ -53,11 +48,11 @@ try
     // Send email
     mail($sendTo, $subject, $emailText, implode("\n", $headers));
 
-    echo "<script>window.alert('minha mensagem')</script>";
+    echo "<script>window.alert('Sua mensagem foi enviada!Muito Obrigado.');window.location.href='#contato'</script>";
 }
 catch (\Exception $e)
 {
-    $responseArray = array('type' => 'danger', 'message' => $errorMessage);
+    echo "<script>window.alert('Sua mensagem não foi enviada.Tente novamente.')</script>";
 }
 
 
