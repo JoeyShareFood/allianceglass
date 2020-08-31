@@ -4,10 +4,10 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'teste1@allianceglass.com.br';
+$from = 'contato-site@allianceglass.com.br';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'teste2@allianceglass.com.br';
+$sendTo = 'contato-site@allianceglass.com.br';
 
 // subject of the email
 $subject = 'New message from contact form';
@@ -48,11 +48,11 @@ try
     // Send email
     mail($sendTo, $subject, $emailText, implode("\n", $headers));
 
-    echo "<script>window.alert('Sua mensagem foi enviada!Muito Obrigado.');window.location.href='#contato'</script>";
+    echo "<script>window.alert('Sua mensagem foi enviada!Muito Obrigado.');window.location.href='https://allianceglass.com.br'</script>";
 }
 catch (\Exception $e)
 {
-    echo "<script>window.alert('Sua mensagem não foi enviada.Tente novamente.')</script>";
+    echo "<script>window.alert('Sua mensagem não foi enviada.Tente novamente.');window.location.href='https://allianceglass.com.br'</script>";
 }
 
 
