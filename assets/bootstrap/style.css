@@ -1,3 +1,9 @@
+.navText:hover {
+  font-size: 150%; }
+
+.helloText {
+  color: #3b5998; }
+
 #card {
   margin: 0 auto;
   float: none;
@@ -185,5 +191,11 @@ li.timeline-item::before {
   bottom: 0;
   right: 0;
   transform: translateY(-50%); }
+
+.space {
+  height: 80px; }
+
+.space_Contact {
+  height: 110px; }
 
 /*# sourceMappingURL=style.css.map */
